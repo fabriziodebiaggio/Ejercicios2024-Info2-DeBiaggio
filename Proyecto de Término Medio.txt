@@ -2,9 +2,7 @@ Proyecto de Término Medio
 
 Alumno: De Biaggio Fabrizio.
 
-Materia a la que se dirige: Probabilidad y Estadística.
+Materia a la que se dirige: Técnicas Digitales I.
 
-Función del programa: El programa devuelve la Media Aritmética, la Mediana y el Modo de una serie de números simples ingresados por teclado. 
-El usuario podrá ingresar hasta 100 números, para continuar se presiona la tecla '=', si ingresó más de 2 realiza los calculos, sino pide que siga ingresando. Si se superó el límite de 100, el último número ingresado no se tendrá en cuenta y se procederá a hacer el cálculo con los 100 primeros. 
-Cada valor devuelto se calcula en una función aparte.
+Función del programa: EL usuario carga la tabla de verdad de un circuito que desee diseñar. El programa al recibir los datos crea la función correspondiente y se encarga de reducirla. El programa entrega la función reducida tanto para armar el circuito con compuertas NAND como para compuertas NOR. 
 
