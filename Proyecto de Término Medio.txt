@@ -4,5 +4,7 @@ Alumno: De Biaggio Fabrizio.
 
 Materia a la que se dirige: Técnicas Digitales I.
 
-Función del programa: EL usuario carga la tabla de verdad de un circuito que desee diseñar. El programa al recibir los datos crea la función correspondiente y se encarga de reducirla. El programa entrega la función reducida tanto para armar el circuito con compuertas NAND como para compuertas NOR. 
+Función del programa: EL usuario carga la tabla de verdad de un circuito que desee diseñar. 
+El programa al recibir los datos crea la función correspondiente y se encarga de reducirla. 
+El programa entrega la función reducida tanto para armar el circuito con compuertas NAND como para compuertas NOR. 
 
